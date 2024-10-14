@@ -43,4 +43,4 @@ Após fazer login, o usuário é redirecionado para uma tela que exibe todos os 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+  
